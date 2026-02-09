@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+.hero {
+  background: #1e1e2f;
+  color: #fff;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero button {
+  margin-top: 20px;
+  padding: 12px 25px;
+  border: none;
+  background: #ff9800;
+  color: #000;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.servicos .cards {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1;
+  min-width: 200px;
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.contato form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contato input,
+.contato textarea {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.contato button {
+  background: #1e1e2f;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ddd;
+}
+
+@media (max-width: 600px) {
+  .servicos .cards {
+    flex-direction: column;
+  }
+}
