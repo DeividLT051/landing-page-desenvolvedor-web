@@ -16,9 +16,6 @@ Apresentar serviços de desenvolvimento web de forma simples, moderna e responsi
 - Validação de formulário com JavaScript
 - Mensagem de sucesso ao enviar contato
 
-## 🌐 Projeto online
-🔗 https://beautiful-blancmange-d86a36.netlify.app/
-
 ## 📌 Autor
 Deivid Laguna
 
