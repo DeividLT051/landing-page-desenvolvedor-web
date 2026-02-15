@@ -20,4 +20,4 @@ Apresentar serviços de desenvolvimento web de forma simples, moderna e responsi
 Deivid Laguna
 
 ## 🌐 Projeto online
-🔗https://soft-cobbler-f33f1b.netlify.app/
+🔗https://deividlt051.github.io/landing-page-desenvolvedor-web/
